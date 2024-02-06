@@ -25,9 +25,9 @@ As always, you will be submitting a technical report and a presentation. **You m
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ➡️ [Regression Challenge Sign Up](https://cutt.ly/kaggle911) ⬅️ to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-910 Regression Challenge](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/overview)
-4. Review the [data description](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/data).
+2. **IMPORTANT**: Click this link ➡️ [Regression Challenge Sign Up](https://cutt.ly/kaggle122) ⬅️ to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSI-122 Regression Challenge](https://www.cutt.ly/kaggle122)
+4. Review the [data description](https://www.kaggle.com/competitions/dsi-122-ames-housing-challenge/data).
 
 ## The Modeling Process
 
@@ -48,15 +48,15 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on presentation day, **Friday, October 6th @ 10 AM EST**.
+Materials must be submitted by the beginning of class on presentation day, **Fri2/16  @ 10 AM EST**.
 
-The last day for the Kaggle competition will be **Thursday, October 5th @ 11:59 PM EST**.
+The last day for the Kaggle competition will be **Thursday, 2/15  @ 11:55 PM EST**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
 - A README.md (that isn't this file).
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least three successful prediction submissions on [DSIR-910 Regression Challenge](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/overview) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/leaderboard)" tab.
+- At least three successful prediction submissions on [DSI-122 Regression Challenge](https://www.kaggle.com/competitions/dsi-122-ames-housing-challenge/overview) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/competitions/dsi-122-ames-housing-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
@@ -76,7 +76,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Talk about your procedure/methodology (high level).
 - Talk about your primary findings.
 - Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
-- [More presentation advice here!](https://git.generalassemb.ly/dsi-911/course-info/blob/master/presentation-advice.md)
+- [More presentation advice here!](https://git.generalassemb.ly/dsb-122/course-info/blob/master/presentation-advice.md)
 
 Be sure to rehearse and time your presentation before class.
 
